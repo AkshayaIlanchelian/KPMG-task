@@ -1,0 +1,62 @@
+Women younger than 25 is/are 
+
+Akshaya Ilanchelian
+
+Raxana Vignesh
+
+Josephine Marcus
+
+--------------------------------------------------------------------------
+
+The youngest man is
+
+Karthik Raja
+
+--------------------------------------------------------------------------
+
+Men older than 40 is/are 
+
+Joseph Morgan
+
+--------------------------------------------------------------------------
+
+Women Managers whose name starts with 'jo' is/are 
+
+Joseph Morgan
+
+Jotsna Kumar
+
+Jothi Kavitha
+
+Josephine Marcus
+
+--------------------------------------------------------------------------
+
+Women who are Manager and Admin is/are 
+
+Akshaya Ilanchelian
+
+Puja Sivakumar
+
+Jotsna Kumar
+
+Josephine Marcus
+
+--------------------------------------------------------------------------
+
+Akshaya Ilanchelian is 24 years old. It is a Female.He/She has the following roles Manager, Admin
+
+Karthik Raja is 21 years old. It is a Male.He/She has the following roles Employee, Admin
+
+Raxana Vignesh is 22 years old. It is a Female.He/She has the following roles Employee, Admin
+
+Puja Sivakumar is 33 years old. It is a Female.He/She has the following roles Manager, Admin
+
+Joseph Morgan is 41 years old. It is a Male.He/She has the following roles Employee
+
+Jotsna Kumar is 29 years old. It is a Female.He/She has the following roles Manager, Employee, Admin
+
+Jothi Kavitha is 36 years old. It is a Male.He/She has the following roles Manager, Employee
+
+Josephine Marcus is 21 years old. It is a Female.He/She has the following roles Manager, Admin
+
